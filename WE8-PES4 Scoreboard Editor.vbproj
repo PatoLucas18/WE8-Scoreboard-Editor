@@ -136,24 +136,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <None Include="Resources\scrbase.bin" />
-    <None Include="Resources\unknow_00498.opd" />
-    <None Include="Resources\unknow_00498.opd_000" />
-    <None Include="Resources\unknow_00499.opd_000" />
-    <None Include="Resources\unknow_00500.opd_000" />
-    <None Include="Resources\unknow_00501.opd_000" />
-    <None Include="Resources\unknow_00502.opd_000" />
-    <None Include="Resources\unknow_00503.opd_000" />
-    <None Include="Resources\unknow_00504.opd_000" />
-    <None Include="Resources\unknow_00505.opd_000" />
-    <None Include="Resources\unknow_00506.opd_000" />
-    <None Include="Resources\unknow_00507.opd_000" />
-    <None Include="Resources\unknow_00508.opd_000" />
-    <None Include="Resources\unknow_00509.opd_000" />
-    <None Include="Resources\unknow_00510.opd_000" />
-    <None Include="Resources\unknow_00511.opd_000" />
-    <None Include="Resources\unknow_00512.opd_000" />
-    <None Include="Resources\unnamed_601.bin_000" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
@@ -163,9 +145,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="previas\Cian.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1024BG.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="recursos\640BG .png" />
