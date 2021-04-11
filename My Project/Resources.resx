@@ -118,70 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="opdbase" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00498.opd;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="scrbase" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\scrbase.bin;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="scr_pes6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unnamed_601.bin_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Sombra" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\previas\Cian.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="unknow_00498" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00498.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00499" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00499.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00500" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00500.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00501" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00501.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00502" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00502.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00503" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00503.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00504" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00504.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00505" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00505.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00506" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00506.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00507" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00507.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00508" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00508.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00509" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00509.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00510" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00510.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00511" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00511.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="unknow_00512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\unknow_00512.opd_000;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="game01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\game_2d_e.txs_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Sombra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sombra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_1024BG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\IMG\_1024BG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\_1024BG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_640BG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\IMG\_640BG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\_640BG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -22,7 +22,7 @@ Namespace My.Resources
     '''<summary>
     '''  A strongly-typed resource class, for looking up localized strings, etc.
     '''</summary>
-    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0"),  _
+    <Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0"),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
      Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
      Global.Microsoft.VisualBasic.HideModuleNameAttribute()>  _
@@ -91,192 +91,12 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property opdbase() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("opdbase", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property scr_pes6() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("scr_pes6", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property scrbase() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("scrbase", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
         Friend ReadOnly Property Sombra() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Sombra", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00498() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00498", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00499() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00499", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00500() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00500", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00501() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00501", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00502() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00502", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00503() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00503", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00504() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00504", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00505() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00505", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00506() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00506", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00507() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00507", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00508() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00508", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00509() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00509", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00510() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00510", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00511() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00511", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property unknow_00512() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("unknow_00512", resourceCulture)
-                Return CType(obj,Byte())
             End Get
         End Property
     End Module
